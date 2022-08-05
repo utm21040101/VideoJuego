@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Juego</string>
+
+    <string name="boton_init_play">Jugar</string>
+    <string name="boton_init_quit">Salir</string>
+    <string name="boton_juego_reinit">Reiniciar</string>
+    <string name="boton_juego_quit">Salir</string>
+</resources>
